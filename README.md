@@ -1,2 +1,3 @@
 # 42Wolfsburg-Piscine
-some of my works or learning materials from April Piscine 
+
+I upload some of my works or learning materials from April Piscin in GitHub Repository 
